@@ -15,7 +15,7 @@ This repository contains:
 | `Deliverables.md` | Full documentation: assumptions, ETL summary, and machine learning task write-up |
 | `cleaned_dataset.csv` | Final cleaned version of the raw lab test data |
 | `cleaned_labtest.db` | Structured SQLite database generated from the ETL pipeline |
-| `data-engineering-ai.ipynb` | Kaggle notebook with all the code: data cleaning, EDA, transformation, and export |
+| `labtest-dataset-challenge.ipynb` | Kaggle notebook with all the code: data cleaning, EDA, transformation, and export |
 
 ---
 
@@ -55,4 +55,5 @@ Prepared for a job interview assessment to demonstrate:
 - Data wrangling in healthcare
 - Building an ETL pipeline
 - Designing a predictive ML task for operational efficiency
+📘 View the original notebook on Kaggle: [Kaggle Notebook – Data Engineering & AI](https://www.kaggle.com/code/ronkenoly/labtest-dataset-challenge/edit)
 
